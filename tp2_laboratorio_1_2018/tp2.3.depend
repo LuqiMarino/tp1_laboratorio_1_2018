@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1506133802 source:c:\users\lucas\desktop\tp2.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1506133991 source:c:\users\lucas\desktop\tp2.3\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1506132198 c:\users\lucas\desktop\tp2.3\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1525919389 source:c:\users\lucas\desktop\tp2_laboratorio_1-master\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1525919389 c:\users\lucas\desktop\tp2_laboratorio_1-master\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
+1525919700 source:c:\users\lucas\desktop\tp2_laboratorio_1-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
